@@ -7,3 +7,5 @@ molecule
 molecule-plugins[vagrant]
 pre-commit
 pytest-testinfra
+six==1.16.0
+jmespath
