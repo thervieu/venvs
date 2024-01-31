@@ -1,4 +1,5 @@
 ansible>=8,<9
+ansible-core<2.15.9
 ansible-lint
 docker
 flake8
